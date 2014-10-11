@@ -1,0 +1,6 @@
+<apex:page id="thePage">
+        <apex:outputText value="(page) This is the page."/><br/>
+        <apex:outputText value="(page) This is the page."/><br/>
+        <apex:include pageName="Lc_Include"/>
+       
+</apex:page>

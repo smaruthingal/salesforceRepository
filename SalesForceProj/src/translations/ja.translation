@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- CustomObject --></label>
+        <name>CustomObject</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- DYNAMICHOSPITALITY --></label>
+        <name>DYNAMICHOSPITALITY</name>
+    </customApplications>
+    <customApplications>
+        <label>Milestones PM</label>
+        <name>Project_Mgmt_Labs</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Warehouse --></label>
+        <name>Warehouse</name>
+    </customApplications>
+    <customLabels>
+        <label>&quot;HOWTO: Get Started with Milestones PM&quot;というサンプルプロジェクトを確認してください。</label>
+        <name>BeSureToExploreTheSampleProject</name>
+    </customLabels>
+    <customLabels>
+        <label>ここをクリックして</label>
+        <name>ClickHere</name>
+    </customLabels>
+    <customLabels>
+        <label>このアプリを初期化するにはここをクリック</label>
+        <name>ClickHereToInitializeThisApp</name>
+    </customLabels>
+    <customLabels>
+        <label>コミュニティ</label>
+        <name>Community</name>
+    </customLabels>
+    <customLabels>
+        <label>コミュニティで質問する場合は、&lt;a href=&quot;http://success.salesforce.com/answers&quot;&gt;Salesforce Answers&lt;/a&gt;でお願いします。&lt;span&gt;test&lt;/span&gt;</label>
+        <name>ForCommunityAssistance</name>
+    </customLabels>
+    <customLabels>
+        <label>ヘルプ</label>
+        <name>GettingHelp</name>
+    </customLabels>
+    <customLabels>
+        <label>注意</label>
+        <name>ImportantUpper</name>
+    </customLabels>
+    <customLabels>
+        <label>初期設定が完了しました！</label>
+        <name>InitializationComplete</name>
+    </customLabels>
+    <customLabels>
+        <label>以下のボタンをクリックして設定の初期化をしてください。</label>
+        <name>InitializeYourConfiguration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label1 --></label>
+        <name>Label1</name>
+    </customLabels>
+    <customLabels>
+        <label>&lt;a href=&quot;http://blogs.developerforce.com/labs/2011/08/howto-contribute-to-milestones-pm-code-not-required-opensource.html&quot;&gt;詳細はこちら&lt;/a&gt;.</label>
+        <name>LearnMore</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ALiasNotFound --></label>
+        <name>Milestone1_ALiasNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AllItems --></label>
+        <name>Milestone1_AllItems</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AllOpenTasks --></label>
+        <name>Milestone1_AllOpenTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AnErrorHasOcurred --></label>
+        <name>Milestone1_AnErrorHasOcurred</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Back --></label>
+        <name>Milestone1_Back</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blocked Tasks --></label>
+        <name>Milestone1_BlockedTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blocked_Tasks --></label>
+        <name>Milestone1_Blocked_Tasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar --></label>
+        <name>Milestone1_Calendar</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CalendarLegend --></label>
+        <name>Milestone1_CalendarLegend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>Milestone1_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Check &quot;Active&quot; --></label>
+        <name>Milestone1_CheckActive</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Click &quot;New Email Service&quot;. --></label>
+        <name>Milestone1_ClickNewEmailService</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Click &quot;Save and New Email Address&quot;. --></label>
+        <name>Milestone1_ClickSaveAndNewEmailAddress</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Content is not allowed in prolog. --></label>
+        <name>Milestone1_ContentIsNotAllowedInProlog</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CurrentExport --></label>
+        <name>Milestone1_CurrentExport</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DidNotMatch --></label>
+        <name>Milestone1_DidNotMatch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EnterAcommand --></label>
+        <name>Milestone1_EnterAcommand</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Expenses --></label>
+        <name>Milestone1_Expenses</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Filter --></label>
+        <name>Milestone1_Filter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FilterCalendarBy --></label>
+        <name>Milestone1_FilterCalendarBy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestone1_FilterProjectBy --></label>
+        <name>Milestone1_FilterProjectBy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Friday --></label>
+        <name>Milestone1_Friday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FromUsersNotFound --></label>
+        <name>Milestone1_FromUsersNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Full Month --></label>
+        <name>Milestone1_FullMonth</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FullView --></label>
+        <name>Milestone1_FullView</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Getting Started --></label>
+        <name>Milestone1_GettingStarted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Give a Email Service Name &quot;Email To Milestone Task&quot;. --></label>
+        <name>Milestone1_GiveEmailServiceName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Go to Setup -&gt; Develop -&gt; Email Services --></label>
+        <name>Milestone1_GoToSetupDevelopEmailServices</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Import --></label>
+        <name>Milestone1_Import</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Import Failed - -  Milestone was unable to import your file. --></label>
+        <name>Milestone1_ImportFailed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ImportLocalTemplateXML --></label>
+        <name>Milestone1_ImportLocalTemplateXML</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Import Template --></label>
+        <name>Milestone1_ImportTemplate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ImportTemplateXML --></label>
+        <name>Milestone1_ImportTemplateXML</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestone1_InactiveUsersError --></label>
+        <name>Milestone1_InactiveUsersError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Incomplete Tasks By Priority --></label>
+        <name>Milestone1_IncompleteTasksByPriority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Incomplete Tasks By Projects --></label>
+        <name>Milestone1_IncompleteTasksByProjects</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Insufficient privileges to access project. --></label>
+        <name>Milestone1_InsufficientPrivileges</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Insufficient privileges to access parent milestone. --></label>
+        <name>Milestone1_InsufficientPrivilegesToAccessParentMilestone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- InvalidName --></label>
+        <name>Milestone1_InvalidName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- InvalidVersion --></label>
+        <name>Milestone1_InvalidVersion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Late Tasks --></label>
+        <name>Milestone1_LateTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading --></label>
+        <name>Milestone1_Loading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Logs --></label>
+        <name>Milestone1_Logs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MainMenu --></label>
+        <name>Milestone1_MainMenu</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MaximumPer --></label>
+        <name>Milestone1_MaximumPer</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestone Application Post Installation Instructions --></label>
+        <name>Milestone1_MilestoneApplicationPostInstallation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MilestoneClone --></label>
+        <name>Milestone1_MilestoneClone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestone is Complete, the Task can not be moved --></label>
+        <name>Milestone1_MilestoneIsComplete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MilestoneRecordsToMove --></label>
+        <name>Milestone1_MilestoneRecordsToMove</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- A milestone you are attempting to move is already assigned to this project. Plea --></label>
+        <name>Milestone1_MilestoneYouAreAttempting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestones --></label>
+        <name>Milestone1_Milestones</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MilestonesCalendar --></label>
+        <name>Milestone1_MilestonesCalendar</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MilestonesOpenTasks --></label>
+        <name>Milestone1_MilestonesOpenTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestones should not be moved to different Projects, except through the &quot;Move t --></label>
+        <name>Milestone1_MilestonesShouldNotBeMoved</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Monday --></label>
+        <name>Milestone1_Monday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestoneCancel --></label>
+        <name>Milestone1_MoveMilestoneCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestoneRecordsToMove --></label>
+        <name>Milestone1_MoveMilestoneRecordsToMove</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestoneS --></label>
+        <name>Milestone1_MoveMilestoneS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestoneSave --></label>
+        <name>Milestone1_MoveMilestoneSave</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestone_Cancel --></label>
+        <name>Milestone1_MoveMilestone_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestone_Save --></label>
+        <name>Milestone1_MoveMilestone_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveMilestone_s --></label>
+        <name>Milestone1_MoveMilestone_s</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskCancel --></label>
+        <name>Milestone1_MoveTaskCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskDetailAttachmentsRecords --></label>
+        <name>Milestone1_MoveTaskDetailAttachmentsRecords</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskDetailCancel --></label>
+        <name>Milestone1_MoveTaskDetailCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskDetailS --></label>
+        <name>Milestone1_MoveTaskDetailS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskDetailSave --></label>
+        <name>Milestone1_MoveTaskDetailSave</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskDetailTaskRecordsToMove --></label>
+        <name>Milestone1_MoveTaskDetailTaskRecordsToMove</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskRecordsToMove --></label>
+        <name>Milestone1_MoveTaskRecordsToMove</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskS --></label>
+        <name>Milestone1_MoveTaskS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MoveTaskSave --></label>
+        <name>Milestone1_MoveTaskSave</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- My Incomplete Tasks --></label>
+        <name>Milestone1_MyIncompleteTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MyMilestonesOnly --></label>
+        <name>Milestone1_MyMilestonesOnly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MyProjectsAndSubProjectItems --></label>
+        <name>Milestone1_MyProjectsAndSubProjectItems</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MyTasks --></label>
+        <name>Milestone1_MyTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MyTasksOnly --></label>
+        <name>Milestone1_MyTasksOnly</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Milestone1_NewFieldToReplaceInactiveUsers --></label>
+        <name>Milestone1_NewFieldToReplaceInactiveUsers</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NewMilestoneName --></label>
+        <name>Milestone1_NewMilestoneName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NewProjectName --></label>
+        <name>Milestone1_NewProjectName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No import XML files selected. Please select an XML file to import. --></label>
+        <name>Milestone1_NoImportXMLFilesSelected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No projects! --></label>
+        <name>Milestone1_NoProjects</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OrganizationsVersion --></label>
+        <name>Milestone1_OrganizationsVersion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OverdueTasks --></label>
+        <name>Milestone1_OverdueTasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PleaseUseFormat --></label>
+        <name>Milestone1_PleaseUseFormat</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectCannotBeNull --></label>
+        <name>Milestone1_ProjectCannotBeNull</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectClone --></label>
+        <name>Milestone1_ProjectClone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectDetail --></label>
+        <name>Milestone1_ProjectDetail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectIsTooLarge --></label>
+        <name>Milestone1_ProjectIsTooLarge</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectXML --></label>
+        <name>Milestone1_ProjectXML</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectXMLImport --></label>
+        <name>Milestone1_ProjectXMLImport</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Projects --></label>
+        <name>Milestone1_Projects</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectsCalendar --></label>
+        <name>Milestone1_ProjectsCalendar</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectsMustBeExported --></label>
+        <name>Milestone1_ProjectsMustBeExported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QuickSearch --></label>
+        <name>Milestone1_QuickSearch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RegexFwdRe --></label>
+        <name>Milestone1_RegexFwdRe</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SalesforceDMLError --></label>
+        <name>Milestone1_SalesforceDMLError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saturday --></label>
+        <name>Milestone1_Saturday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>Milestone1_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select the Apex Class &quot;Milestone1_Email_Handler&quot;. --></label>
+        <name>Milestone1_SelectTheApexClass</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Set &quot;Accept Attachments&quot; to &quot;All&quot;. --></label>
+        <name>Milestone1_SetAcceptAttachmentsToAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Set &quot;Accept Email From&quot; to &quot;All Email Addresses&quot;. --></label>
+        <name>Milestone1_SetAcceptEmailFromToAllEmail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Set All Failure Response options to &apos;Bounce Message&apos;. --></label>
+        <name>Milestone1_SetAllFailureResponseOptions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Settings already exist.  No changes made. --></label>
+        <name>Milestone1_SettingsAlreadyExistNoChanges</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Setup A New Email Address. --></label>
+        <name>Milestone1_SetupNewEmailAddress</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sub-milestones can only go one level deep. Please select a top-level milestone a --></label>
+        <name>Milestone1_SubMilestonesCanOnlyGoOneLevelDeep</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SubjectMissing --></label>
+        <name>Milestone1_SubjectMissing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SubjectMissingAlias --></label>
+        <name>Milestone1_SubjectMissingAlias</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SubjectMissingTask --></label>
+        <name>Milestone1_SubjectMissingTask</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Submit --></label>
+        <name>Milestone1_Submit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Summary --></label>
+        <name>Milestone1_Summary</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SummarySearch --></label>
+        <name>Milestone1_SummarySearch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sunday --></label>
+        <name>Milestone1_Sunday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TaskNotFound --></label>
+        <name>Milestone1_TaskNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- A task you are attempting to move is already assigned to this milestone. Please --></label>
+        <name>Milestone1_TaskYouAreAttempting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tasks --></label>
+        <name>Milestone1_Tasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TasksCalendar --></label>
+        <name>Milestone1_TasksCalendar</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The Project cannot be null. This is a critical error during import of XML. Pleas --></label>
+        <name>Milestone1_TheProjectCannotBeNull</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The XML file for your project has been successfully created, and can be found in --></label>
+        <name>Milestone1_TheXMLFileForYourProjectHasBeenSuccessfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The XML file is too large. --></label>
+        <name>Milestone1_TheXMLFileIsTooLarge</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Thealias --></label>
+        <name>Milestone1_Thealias</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Thursday --></label>
+        <name>Milestone1_Thursday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Times --></label>
+        <name>Milestone1_Times</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- To configure the Email To Task Service --></label>
+        <name>Milestone1_ToConfigureTheEmail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ToUsersNotFound --></label>
+        <name>Milestone1_ToUsersNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Click here --></label>
+        <name>Milestone1_ToViewXML_FirstHalf</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- to view the XML file in the My Personal Documents folder. --></label>
+        <name>Milestone1_ToViewXML_SecondHalf</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Click here --></label>
+        <name>Milestone1_ToYourProject_FirstHalf</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- to return to your project. --></label>
+        <name>Milestone1_ToYourProject_SecondHalf</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Top Level Milestone has predecessor and cannot be moved.  Remove that predecesso --></label>
+        <name>Milestone1_TopLevelMilestoneHasPredecessor</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Top Level Milestone has successors and cannot be moved.  Redirect those successo --></label>
+        <name>Milestone1_TopLevelMilestoneHasSuccessors</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tuesday --></label>
+        <name>Milestone1_Tuesday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- UsersNotFound --></label>
+        <name>Milestone1_UsersNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Wednesday --></label>
+        <name>Milestone1_Wednesday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Your project could not successfully be exported to an XML document. --></label>
+        <name>Milestone1_YourProjectCouldNotSuccessfully</name>
+    </customLabels>
+    <customLabels>
+        <label>Milestones PMはオープンソースソフトウェアです。</label>
+        <name>MilestonesPMISOpenSource</name>
+    </customLabels>
+    <customLabels>
+        <label>Milestones PMは公式サポートがありません。</label>
+        <name>MilestonesPMIsUnsupported</name>
+    </customLabels>
+    <customLabels>
+        <label>次のステップ</label>
+        <name>NextSteps</name>
+    </customLabels>
+    <customLabels>
+        <label>サマリー</label>
+        <name>ProjectSummary_FirstHalf</name>
+    </customLabels>
+    <customLabels>
+        <label>Milestones PMの利用を開始しましょう。</label>
+        <name>ProjectSummary_SecondHalf</name>
+    </customLabels>
+    <customLabels>
+        <label>自分のプロジェクト作成をはじめてみましょう！</label>
+        <name>StartCreatingYourFirstProject</name>
+    </customLabels>
+    <customLabels>
+        <label>このサンプルプロジェクトには Milestones PMから得られる様々なアイディアが含まれています。</label>
+        <name>ThisSampleProjectIncludes</name>
+    </customLabels>
+    <customLabels>
+        <label>アイディアや問題を報告するには、&lt;a href=&quot;https://github.com/ForceDotComLabs/Milestones-PM&quot;&gt;Milestones PM on Github&lt;/a&gt;.へお願いします。</label>
+        <name>ToSubmitIdeasOrIssues</name>
+    </customLabels>
+    <customLabels>
+        <label>初期化処理で作成された&quot;Getting Started&quot;プロジェクトを開いて下さい。</label>
+        <name>ViewTheGettingStartedProject</name>
+    </customLabels>
+    <customLabels>
+        <label>あなたからの問題報告、アイディア、ドキュメント作成、コード改修、その他全ての形でのプロジェクトへの参加を歓迎します。</label>
+        <name>WeWelcomeYourIssueReports</name>
+    </customLabels>
+    <customLabels>
+        <label>Milestones PM へようこそ － プロジェクトマネジメント</label>
+        <name>WelcomeToMilestonesPM</name>
+    </customLabels>
+    <customLabels>
+        <label>サマリーページに移動して、サンプルプロジェクトを確認してください。</label>
+        <name>YouCanNowGoTo</name>
+    </customLabels>
+    <customLabels>
+        <label>その後の手順は簡単です。</label>
+        <name>YourNextFewSteps</name>
+    </customLabels>
+    <customPageWebLinks>
+        <label>マイルストーンをはじめる</label>
+        <name>Milestone1_Getting_Started</name>
+    </customPageWebLinks>
+    <customTabs>
+        <label><!-- Custom TAB --></label>
+        <name>Custom_TAB</name>
+    </customTabs>
+    <customTabs>
+        <label>はじめに</label>
+        <name>Milestone1_Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label>インポートテンプレート</label>
+        <name>Milestone1_Import_Project_Template</name>
+    </customTabs>
+    <customTabs>
+        <label>サマリー</label>
+        <name>Milestone1_Summary</name>
+    </customTabs>
+    <customTabs>
+        <label>カレンダー</label>
+        <name>Milestone_Calendar</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Summary --></label>
+        <name>Summary</name>
+    </customTabs>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Coaching Activities --></description>
+        <label><!-- Coaching Activities --></label>
+        <name>Coaching_Activities</name>
+        <sections>
+            <label><!-- Activities --></label>
+            <name>Activities</name>
+        </sections>
+        <sections>
+            <label><!-- Coaching --></label>
+            <name>Coaching</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Coaching Feeds --></description>
+        <label><!-- Coaching Feeds --></label>
+        <name>Coaching_Feeds</name>
+        <sections>
+            <label><!-- Coaching --></label>
+            <name>Coaching</name>
+        </sections>
+        <sections>
+            <label><!-- Coaching Feed --></label>
+            <name>Coaching Feed</name>
+        </sections>
+        <sections>
+            <label><!-- Comments --></label>
+            <name>Comments</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Goals --></description>
+        <label><!-- Goals --></label>
+        <name>Goals</name>
+        <sections>
+            <columns>
+                <label><!-- Department --></label>
+                <name>Department</name>
+            </columns>
+            <columns>
+                <label><!-- Division --></label>
+                <name>Division</name>
+            </columns>
+            <columns>
+                <label><!-- Employee Number --></label>
+                <name>Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Manager --></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label><!-- Owner --></label>
+                <name>Owner</name>
+            </columns>
+            <label><!-- Goals --></label>
+            <name>Goals</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Goals Feed --></description>
+        <label><!-- Goals Feed --></label>
+        <name>Goals_Feed</name>
+        <sections>
+            <columns>
+                <label><!-- Link Title --></label>
+                <name>Link Title</name>
+            </columns>
+            <label><!-- Feed --></label>
+            <name>Feed</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Department --></label>
+                <name>Department</name>
+            </columns>
+            <columns>
+                <label><!-- Division --></label>
+                <name>Division</name>
+            </columns>
+            <columns>
+                <label><!-- Employee Number --></label>
+                <name>Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Manager --></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label><!-- Owner --></label>
+                <name>Owner</name>
+            </columns>
+            <label><!-- Goals --></label>
+            <name>Goals</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Goals and Metrics --></description>
+        <label><!-- Goals and Metrics --></label>
+        <name>Goals_and_Metrics</name>
+        <sections>
+            <columns>
+                <label><!-- Owner --></label>
+                <name>Owner</name>
+            </columns>
+            <label><!-- Goals --></label>
+            <name>Goals</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Metric Actual Value --></label>
+                <name>Metric Actual Value</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Completion Date --></label>
+                <name>Metric Completion Date</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Created By --></label>
+                <name>Metric Created By</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Created Date --></label>
+                <name>Metric Created Date</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Due Date --></label>
+                <name>Metric Due Date</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Flagged As --></label>
+                <name>Metric Flagged As</name>
+            </columns>
+            <columns>
+                <label><!-- Metric ID --></label>
+                <name>Metric ID</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Last Modified By --></label>
+                <name>Metric Last Modified By</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Last Modified Date --></label>
+                <name>Metric Last Modified Date</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Name --></label>
+                <name>Metric Name</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Progress --></label>
+                <name>Metric Progress</name>
+            </columns>
+            <columns>
+                <label><!-- Metric Target Value --></label>
+                <name>Metric Target Value</name>
+            </columns>
+            <label><!-- Metrics --></label>
+            <name>Metrics</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーンとタスク</description>
+        <label>マイルストーン(複数)とタスク（複数）</label>
+        <name>Milestone1_Milestones_Tasks</name>
+        <sections>
+            <label>プロジェクトマイルストーン</label>
+            <name>Project Milestones</name>
+        </sections>
+        <sections>
+            <label>プロジェクトタスク</label>
+            <name>Project Tasks</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーン1 - プロジェクトレポート</description>
+        <label>プロジェクト（PM）</label>
+        <name>Milestone1_Projects</name>
+        <sections>
+            <label>プロジェクト</label>
+            <name>Projects</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>プロジェクトとマイルストーン</description>
+        <label>プロジェクト（複数）とマイルストーン（複数）</label>
+        <name>Milestone1_Projects_Milestones</name>
+        <sections>
+            <label>子マイルストーン</label>
+            <name>Child Milestones</name>
+        </sections>
+        <sections>
+            <label>プロジェクトマイルストーン</label>
+            <name>Project Milestones</name>
+        </sections>
+        <sections>
+            <label>プロジェクト</label>
+            <name>Projects</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>タスク基本リスト</description>
+        <label>タスク</label>
+        <name>Milestone1_Tasks</name>
+        <sections>
+            <label>タスク</label>
+            <name>Tasks</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーンとタスクと時間</description>
+        <label>マイルストーンとタスクと費用</label>
+        <name>MilestoneTaskExp</name>
+        <sections>
+            <label>費用</label>
+            <name>Expenses</name>
+        </sections>
+        <sections>
+            <label>マイルストーン</label>
+            <name>Milestones</name>
+        </sections>
+        <sections>
+            <label>タスク</label>
+            <name>Tasks</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーンとタスクと費用</description>
+        <label>マイルストーン（複数）とタスク（複数）と費用（複数）</label>
+        <name>Milestones_with_Tasks_with_Expenses</name>
+        <sections>
+            <label>費用</label>
+            <name>Expenses</name>
+        </sections>
+        <sections>
+            <label>マイルストーン</label>
+            <name>Milestones</name>
+        </sections>
+        <sections>
+            <label>タスク</label>
+            <name>Tasks</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーンとタスクと時間</description>
+        <label>マイルストーン（複数）とタスク（複数）と時間（複数）</label>
+        <name>Milestones_with_Tasks_with_Times</name>
+        <sections>
+            <label>マイルストーン</label>
+            <name>Milestones</name>
+        </sections>
+        <sections>
+            <label>タスク</label>
+            <name>Tasks</name>
+        </sections>
+        <sections>
+            <label>時間</label>
+            <name>Times</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Performance Cycles with Questions --></description>
+        <label><!-- Performance Cycles with Questions --></label>
+        <name>Performance_Cycles_with_Questions</name>
+        <sections>
+            <columns>
+                <label><!-- Multiple Choice Options --></label>
+                <name>Multiple Choice Options</name>
+            </columns>
+            <columns>
+                <label><!-- Question --></label>
+                <name>Question</name>
+            </columns>
+            <label><!-- Feedback Questions --></label>
+            <name>Feedback Questions</name>
+        </sections>
+        <sections>
+            <label><!-- Performance Cycles --></label>
+            <name>Performance Cycles</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Summary Type --></label>
+                <name>Summary Type</name>
+            </columns>
+            <label><!-- Performance Question Sets (performance, self, peer, and skip level details) --></label>
+            <name>Performance Question Sets (performance, self, peer, and skip level details)</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Performance Summary Cycles with Requests --></description>
+        <label><!-- Performance Summary Cycles with Requests --></label>
+        <name>Performance_Summary_Cycles_with_Requests</name>
+        <sections>
+            <columns>
+                <label><!-- Cycle State --></label>
+                <name>Cycle State</name>
+            </columns>
+            <label><!-- Performance Cycles --></label>
+            <name>Performance Cycles</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Summary Type --></label>
+                <name>Summary Type</name>
+            </columns>
+            <label><!-- Performance Question Sets (performance, self, peer, and skip level details) --></label>
+            <name>Performance Question Sets (performance, self, peer, and skip level details)</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Confidential --></label>
+                <name>Confidential</name>
+            </columns>
+            <columns>
+                <label><!-- Multiple choice options --></label>
+                <name>Multiple choice options</name>
+            </columns>
+            <columns>
+                <label><!-- Optional --></label>
+                <name>Optional</name>
+            </columns>
+            <columns>
+                <label><!-- Question --></label>
+                <name>Question</name>
+            </columns>
+            <columns>
+                <label><!-- Question Created Date --></label>
+                <name>Question Created Date</name>
+            </columns>
+            <columns>
+                <label><!-- Question Number --></label>
+                <name>Question Number</name>
+            </columns>
+            <columns>
+                <label><!-- Question Type --></label>
+                <name>Question Type</name>
+            </columns>
+            <label><!-- Questions --></label>
+            <name>Questions</name>
+        </sections>
+        <sections>
+            <label><!-- Subject Information --></label>
+            <name>Subject Information</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Date summary was shared with subject --></label>
+                <name>Date summary was shared with subject</name>
+            </columns>
+            <columns>
+                <label><!-- Owner of the subjects performance summary --></label>
+                <name>Owner of the subjects performance summary</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Request State --></label>
+                <name>Summary Request State</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Subject --></label>
+                <name>Summary Subject</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Writer --></label>
+                <name>Summary Writer</name>
+            </columns>
+            <label><!-- Summary Requests --></label>
+            <name>Summary Requests</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Summary Requests: Writer: Full Name --></label>
+                <name>Summary Requests: Writer: Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Requests: Writer: Title --></label>
+                <name>Summary Requests: Writer: Title</name>
+            </columns>
+            <label><!-- Writer Information --></label>
+            <name>Writer Information</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Performance Summary Requests with Answers --></description>
+        <label><!-- Performance Summary Requests with Answers --></label>
+        <name>Performance_Summary_Requests_with_Answers</name>
+        <sections>
+            <columns>
+                <label><!-- Answers --></label>
+                <name>Answers</name>
+            </columns>
+            <label><!-- Answers --></label>
+            <name>Answers</name>
+        </sections>
+        <sections>
+            <label><!-- Performance Cycles --></label>
+            <name>Performance Cycles</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Summary Type --></label>
+                <name>Summary Type</name>
+            </columns>
+            <label><!-- Performance Question Sets (performance, self, peer, and skip level details) --></label>
+            <name>Performance Question Sets (performance, self, peer, and skip level details)</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Choices --></label>
+                <name>Choices</name>
+            </columns>
+            <columns>
+                <label><!-- Confidential Answer --></label>
+                <name>Confidential Answer</name>
+            </columns>
+            <columns>
+                <label><!-- Question --></label>
+                <name>Question</name>
+            </columns>
+            <columns>
+                <label><!-- Question Number --></label>
+                <name>Question Number</name>
+            </columns>
+            <columns>
+                <label><!-- Question Type --></label>
+                <name>Question Type</name>
+            </columns>
+            <label><!-- Questions --></label>
+            <name>Questions</name>
+        </sections>
+        <sections>
+            <label><!-- Subject Information --></label>
+            <name>Subject Information</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Date summary was shared with subject --></label>
+                <name>Date summary was shared with subject</name>
+            </columns>
+            <columns>
+                <label><!-- Owner of the subjects performance summary --></label>
+                <name>Owner of the subjects performance summary</name>
+            </columns>
+            <columns>
+                <label><!-- State --></label>
+                <name>State</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Subject --></label>
+                <name>Summary Subject</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Writer --></label>
+                <name>Summary Writer</name>
+            </columns>
+            <label><!-- Summary Requests --></label>
+            <name>Summary Requests</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Summary Requests: Writer: Full Name --></label>
+                <name>Summary Requests: Writer: Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Summary Requests: Writer: Title --></label>
+                <name>Summary Requests: Writer: Title</name>
+            </columns>
+            <label><!-- Writer Information --></label>
+            <name>Writer Information</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Performance summary: users with managers --></description>
+        <label><!-- Performance summary: users with managers --></label>
+        <name>Performance_summary_users_with_managers</name>
+        <sections>
+            <columns>
+                <label><!-- Manager&apos;s Full Name --></label>
+                <name>Manager&apos;s Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Manager&apos;s Title --></label>
+                <name>Manager&apos;s Title</name>
+            </columns>
+            <label><!-- Users --></label>
+            <name>Users</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>マイルストーンとプロジェクトのタスクリスト</description>
+        <label>プロジェクト（複数）とマイルストーン（複数）とタスク（複数）</label>
+        <name>Projects_Milestones_Tasks</name>
+        <sections>
+            <label>マイルストーン</label>
+            <name>Milestones</name>
+        </sections>
+        <sections>
+            <label>プロジェクト</label>
+            <name>Projects</name>
+        </sections>
+        <sections>
+            <label>タスク</label>
+            <name>Tasks</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Reward Funds Statistics --></description>
+        <label><!-- Reward Funds Statistics --></label>
+        <name>Reward_Funds</name>
+        <sections>
+            <columns>
+                <label><!-- Fund Created By --></label>
+                <name>Fund Created By</name>
+            </columns>
+            <columns>
+                <label><!-- Fund Created Date --></label>
+                <name>Fund Created Date</name>
+            </columns>
+            <columns>
+                <label><!-- Fund Owner Name --></label>
+                <name>Fund Owner Name</name>
+            </columns>
+            <columns>
+                <label><!-- Fund: Last Modified By --></label>
+                <name>Fund: Last Modified By</name>
+            </columns>
+            <columns>
+                <label><!-- Fund: Last Modified Date --></label>
+                <name>Fund: Last Modified Date</name>
+            </columns>
+            <label><!-- Reward Funds --></label>
+            <name>Reward Funds</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Recipient: Company Name --></label>
+                <name>Recipient: Company Name</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Country --></label>
+                <name>Recipient: Country</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Department --></label>
+                <name>Recipient: Department</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Division --></label>
+                <name>Recipient: Division</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Employee Number --></label>
+                <name>Recipient: Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Profile --></label>
+                <name>Recipient: Profile</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Role --></label>
+                <name>Recipient: Role</name>
+            </columns>
+            <label><!-- Reward Recipients --></label>
+            <name>Reward Recipients</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Thanks and Badges --></description>
+        <label><!-- Thanks and Badges --></label>
+        <name>Thanks_and_Badges</name>
+        <sections>
+            <columns>
+                <label><!-- Active Badge --></label>
+                <name>Active Badge</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Created By --></label>
+                <name>Badge Given: Created By</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Created Date --></label>
+                <name>Badge Given: Created Date</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Description --></label>
+                <name>Badge Given: Description</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Last Modified By --></label>
+                <name>Badge Given: Last Modified By</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Last Modified Date --></label>
+                <name>Badge Given: Last Modified Date</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Owner Name --></label>
+                <name>Badge Given: Owner Name</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Given: Reward Fund --></label>
+                <name>Badge Given: Reward Fund</name>
+            </columns>
+            <columns>
+                <label><!-- Badge Name --></label>
+                <name>Badge Name</name>
+            </columns>
+            <columns>
+                <label><!-- Company Wide --></label>
+                <name>Company Wide</name>
+            </columns>
+            <label><!-- Badge Given Details --></label>
+            <name>Badge Given Details</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Giver&apos;s Manager: Department --></label>
+                <name>Giver&apos;s Manager: Department</name>
+            </columns>
+            <columns>
+                <label><!-- Giver&apos;s Manager: Division --></label>
+                <name>Giver&apos;s Manager: Division</name>
+            </columns>
+            <columns>
+                <label><!-- Giver&apos;s Manager: Employee Number --></label>
+                <name>Giver&apos;s Manager: Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Giver&apos;s Manager: Full Name --></label>
+                <name>Giver&apos;s Manager: Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Country --></label>
+                <name>Giver: Country</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Department --></label>
+                <name>Giver: Department</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Division --></label>
+                <name>Giver: Division</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: E-mail --></label>
+                <name>Giver: E-mail</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Employee Number --></label>
+                <name>Giver: Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Role --></label>
+                <name>Giver: Role</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: State/Province --></label>
+                <name>Giver: State/Province</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Title --></label>
+                <name>Giver: Title</name>
+            </columns>
+            <columns>
+                <label><!-- Giver: Username --></label>
+                <name>Giver: Username</name>
+            </columns>
+            <columns>
+                <label><!-- Thanks Giver: Full Name --></label>
+                <name>Thanks Giver: Full Name</name>
+            </columns>
+            <label><!-- Giver Data --></label>
+            <name>Giver Data</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Recipient&apos;s Manager: Department --></label>
+                <name>Recipient&apos;s Manager: Department</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient&apos;s Manager: Division --></label>
+                <name>Recipient&apos;s Manager: Division</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient&apos;s Manager: E-mail --></label>
+                <name>Recipient&apos;s Manager: E-mail</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient&apos;s Manager: Employee Number --></label>
+                <name>Recipient&apos;s Manager: Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient&apos;s Manager: Full Name --></label>
+                <name>Recipient&apos;s Manager: Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Company Name --></label>
+                <name>Recipient: Company Name</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Country --></label>
+                <name>Recipient: Country</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Department --></label>
+                <name>Recipient: Department</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Division --></label>
+                <name>Recipient: Division</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: E-mail --></label>
+                <name>Recipient: E-mail</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Employee Number --></label>
+                <name>Recipient: Employee Number</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Full Name --></label>
+                <name>Recipient: Full Name</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Phone --></label>
+                <name>Recipient: Phone</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Role --></label>
+                <name>Recipient: Role</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: State/Province --></label>
+                <name>Recipient: State/Province</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Title --></label>
+                <name>Recipient: Title</name>
+            </columns>
+            <columns>
+                <label><!-- Recipient: Username --></label>
+                <name>Recipient: Username</name>
+            </columns>
+            <label><!-- Recipient Data --></label>
+            <name>Recipient Data</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Thanks Created Date --></label>
+                <name>Thanks Created Date</name>
+            </columns>
+            <columns>
+                <label><!-- Thanks Message --></label>
+                <name>Thanks Message</name>
+            </columns>
+            <columns>
+                <label><!-- Thanks: Created By --></label>
+                <name>Thanks: Created By</name>
+            </columns>
+            <label><!-- Thanks Posted --></label>
+            <name>Thanks Posted</name>
+        </sections>
+    </reportTypes>
+</Translations>

@@ -1,0 +1,28 @@
+<apex:page standardController="Line_Item__c" extensions="Lineitem">
+<apex:form >
+<apex:sectionHeader title="new Lead" subtitle="Edit Lead" help="saesforce" printUrl="https://www.google.co.in/?gws_rd=ssl"/>
+ <apex:pageBlock title="Lead" mode="Edit">
+     <apex:pageBlockSection title="Information">
+         <apex:pageBlockSectionItem >
+             Custom Invoice :<apex:inputField value="{!Line_Item__c.Invoice__c}"/>
+         </apex:pageBlockSectionItem>
+          <apex:pageBlockSectionItem >
+              Custom Quantity <apex:inputField value="{!li.custQuantity__c}"/>
+         </apex:pageBlockSectionItem>
+        
+        
+     </apex:pageBlockSection>
+     <apex:pageBlockSection title="Information">
+         <apex:inputField value="{!Line_Item__c.Invoice__c}"/>
+         <apex:inputField value="{!Line_Item__c.custQuantity__c}"/>
+     </apex:pageBlockSection>
+     
+     <apex:pageBlockSection title="Address Information">
+     </apex:pageBlockSection>
+     <apex:pageBlockSection title="Personal Information">
+     </apex:pageBlockSection>
+     <apex:pageBlockSection title="General Information">
+     </apex:pageBlockSection>
+ </apex:pageBlock>
+</apex:form>
+</apex:page>

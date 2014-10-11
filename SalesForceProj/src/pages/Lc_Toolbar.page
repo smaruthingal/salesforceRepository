@@ -1,0 +1,16 @@
+<apex:page >
+  <apex:panelBar contentStyle="color:#546765">
+    <apex:panelBarItem label="Address Information" onenter="alert('Entering FirstPanel');" onleave="alert('Leaving First Panel');">
+      sample1
+    </apex:panelBarItem>
+    <apex:panelBarItem label="Second Panel" expanded="visible" onenter="alert('Entering Second Panel');" onleave="alert('Leaving Second Panel');">
+      sample2
+    </apex:panelBarItem>
+    <apex:panelBarItem label="Second Panel" expanded="visible" onenter="alert('Entering Second Panel');" onleave="alert('Leaving Second Panel');">
+      sample2
+    </apex:panelBarItem>
+    <apex:panelBarItem label="Second Panel" expanded="visible" onenter="alert('Entering Second Panel');" onleave="alert('Leaving Second Panel');">
+      sample2
+    </apex:panelBarItem>
+  </apex:panelBar>
+</apex:page>

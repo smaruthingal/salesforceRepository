@@ -1,0 +1,18 @@
+<apex:page controller="Pageblockcontroller">
+    <apex:form >
+    <apex:pageBlock >
+        <apex:pageBlockButtons >
+            <apex:commandButton value="Show Block"  ACtion="{!shown}"/>
+            <apex:commandButton value="Hide Block"  ACtion="{!hide}"/>
+            <apex:commandButton value="Save"  ACtion="{!save}"/>
+        </apex:pageBlockButtons>
+        <apex:pageBlock title="PageBlock1" helpTitle="Salesforce" helpUrl="https://www.google.co.in/?gws_rd=ssl" mode="Edit" rendered="{!sh}"  onclick="alert('Ok')">
+        </apex:pageBlock>
+        <apex:pageBlock title="PageBlock2" helpTitle="Salesforce" helpUrl="https://www.google.co.in/?gws_rd=ssl" rendered="{!sh}" tabStyle="Lead">
+          
+        </apex:pageBlock>
+        <apex:pageBlock title="PageBlock3" helpTitle="Salesforce" helpUrl="https://www.google.co.in/?gws_rd=ssl" rendered="{!sh}">
+        </apex:pageBlock>
+    </apex:pageBlock>
+    </apex:form>
+</apex:page>

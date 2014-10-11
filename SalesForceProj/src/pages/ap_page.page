@@ -1,0 +1,19 @@
+<apex:page sidebar="false">
+{! $User.firstname & ' ' & $User.lastname}
+      <apex:pageBlock title="A Block title" >
+          <apex:pageBlockSection title="A Section title">
+              I m 3 blocks down
+          </apex:pageBlockSection>   
+          <apex:pageBlockSection title="A new section">
+              New section
+          </apex:pageBlockSection>  
+      </apex:pageBlock>
+      
+      <p>Today's date is ... {! Today()}</p>
+      <p>Next week's date is ... {! Today() + 7}</p>
+	  <p>The year today is {! YEAR(Today())}</p>
+	  <p>Tomorrow will be day number {! DAY(Today() + 1)}</p>
+
+	  {! IF(day(today()) > 15 , 'After the 15th', 'On or before 15th') }	
+		
+  </apex:page>

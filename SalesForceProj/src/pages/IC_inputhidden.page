@@ -1,0 +1,10 @@
+<apex:page standardController="Account"  tabstyle="case">
+    <apex:form >
+          <apex:inputField value="{!Account.Name}"/>
+           <apex:inputHidden value="{!Account.Name}" id="accname" />
+               <script> 
+                   var theField1 = document.getElementById('{!$Component.accname}'); 
+               </script>
+        <apex:commandButton onclick="alert(theField1.value);"  value="onclick"/>
+    </apex:form>
+</apex:page>

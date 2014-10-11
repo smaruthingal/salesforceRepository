@@ -1,0 +1,10 @@
+<apex:page >
+<style>
+    .test
+    {
+     color:green;
+    }
+</style>
+  <apex:outputLabel value="Testing" for="theCheckbox"  styleClass="test" title="sample" onclick="alert('Ok')"/>
+  First Name:
+</apex:page>

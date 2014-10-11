@@ -1,0 +1,8 @@
+<apex:page >
+ <apex:form >
+     <apex:outputLabel >Thisn is the Custom Components</apex:outputLabel> <br/>
+     <c:Comp >
+         
+     </c:Comp> 
+ </apex:form>
+</apex:page>

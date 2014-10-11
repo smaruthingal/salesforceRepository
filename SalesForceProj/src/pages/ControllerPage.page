@@ -1,0 +1,24 @@
+<apex:page controller="DataController">
+
+ <apex:form >
+     <apex:pageBlock id="block1" title="Block1" rendered="{!block1}">
+         <b>Today :</b> {!curdate} <br/><br/>
+           {!acc.Name} <br/>
+          <b> Custom Date Time </b> <apex:inputText value="{!cutdatetime }"/> <br/><br/>
+          <b> Custom Date Time </b> <apex:outputLabel value="{!cutdatetime }"/><br/><br/>
+          <b> String Data Types: </b> <apex:outputLabel value="{!fname}"/><br/><br/>
+          <b> String Data Types: </b> <apex:outputLabel value="{!cid}"/><br/><br/>
+          <b> Custom Time: </b> <apex:outputLabel value="{!ctime }"/><br/><br/>
+         <apex:pageBlockTable value="{!con}" var="c">
+            
+         </apex:pageBlockTable>
+     </apex:pageBlock>
+     
+     <apex:pageBlock id="block2" title="Block2" rendered="{!block2}">
+     </apex:pageBlock>
+     <apex:pageBlock id="block3" title="Block3" rendered="{!block3}" >
+     </apex:pageBlock>
+    <apex:commandButton value="HideBlocks" action="{!hide}"/>
+     <apex:commandButton value="ShowBlock" action="{!show}"/>
+ </apex:form>
+</apex:page>

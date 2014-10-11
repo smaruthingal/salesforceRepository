@@ -1,0 +1,128 @@
+<apex:page sidebar="false" showHeader="false">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kestone IMS Pvt. Ltd.</title>
+
+<link rel="stylesheet" href="style.css" />
+<apex:stylesheet value="{!URLFOR($Resource.Collection, '/sitecollection/style.css')}"/>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('images/home_btn1.png','images/event_btn1.png','images/man_btn1.png','images/cep_btn1.png','images/design_btn1.png','images/digit_btn1.png','images/cont_btn1.png','images/abt_btn1.png')">
+<div class="main">
+<div class="top">
+  <blockquote>
+    <blockquote>
+      <p><img src="images/logo.png" width="102" height="100" />
+      </p>
+      <p>Kestone Integrated Marketing Services Pvt. Ltd.</p>
+    </blockquote>
+    </blockquote>
+  <table width="60%" border="0" align="center">
+    <tr>
+      <td align="right"><a href="home.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','images/home_btn1.png',1)"><img src="images/home_btn.png" name="home" width="94" height="97" border="0" id="home" /></a></td>
+      <td align="right"><a href="events.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('events','','images/event_btn1.png',1)"><img src="images/event_btn.png" name="events" width="81" height="84" border="0" id="events" /></a></td>
+      <td align="right"><a href="manpower.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('manpower','','images/man_btn1.png',1)"><img src="images/man_btn.png" name="manpower" width="81" height="84" border="0" id="manpower" /></a></td>
+      <td align="right"><a href="cep.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('CEP','','images/cep_btn1.png',1)"><img src="images/cep_btn.png" name="CEP" width="81" height="84" border="0" id="CEP" /></a></td>
+      <td><a href="design.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('design','','images/design_btn1.png',1)"><img src="images/design_btn.png" name="design" width="84" height="81" border="0" id="design" /></a></td>
+      <td><a href="digital.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('degital','','images/digit_btn1.png',1)"><img src="images/digit_btn.png" name="degital" width="84" height="81" border="0" id="degital" /></a></td>
+      <td><a href="contactus.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contactus','','images/cont_btn1.png',1)"><img src="images/cont_btn.png" name="contactus" width="84" height="81" border="0" id="contactus" /></a></td>
+      <td><a href="aboutus.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('aboutus','','images/abt_btn1.png',1)"><img src="images/abt_btn.png" name="aboutus" width="84" height="81" border="0" id="aboutus" /></a></td>
+      </tr>
+</table>
+
+  </div>
+  <div class="content">
+
+      <h1 style="text-align:center">Who we are  what we do</h1>
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td colspan="2">We provide<span class="highlight"> integrated marketing solutions</span> to help achieve<br />
+our client's business and marketing objectives</td>
+      <td width="32%">&nbsp;</td>
+      </tr>
+    <tr>
+      <td width="13%">&nbsp;</td>
+      <td colspan="2"><div style="float:right">Our expertise extends across<span class="highlight"> Event Management, Design &amp; Content Services,<br />
+Customized Engagement Programs, Managed Manpower Services and Digital Marketing</span></div></td>
+      </tr>
+    <tr>
+      <td colspan="2">We conceptualize and implement <span class="highlight">innovative, effective and integrated campaigns</span><br/>
+ that fit our client's budget and achieve desired results</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td colspan="2"><div style="float:right">We belong to the <span class="highlight">Career Launcher Group </span>- Asia's leading education service provider</div></td>
+      </tr>
+
+  </table>
+<p class="clientpara">Client List</p>
+<div class="box">
+<marquee direction="left" truespeed="truespeed" onmouseOver="this.stop();" onMouseOut="this.start();" behavior="alternate" >
+<ul id="marq">
+<li>
+<apex:image url="{!URLFOR($Resource.Collection, '/sitecollection/marquee1.png')}" />
+
+
+</li>
+<li>
+<apex:image url="{!URLFOR($Resource.Collection, '/sitecollection/marquee2.png')}" />
+</li>
+<li><img src="images/marquee3.png"/></li>
+</ul>
+</marquee>
+</div>
+  </div>
+     
+</div>
+<div class="footer">
+<table width="83%" border="0" align="center">
+  <tr>
+    <td width="31%" align="left">© Kestone IMS Pvt. Ltd.New Server</td>
+    <td width="69%" align="right"><table border="0">
+  <tr >
+    <td><a href="contactus.html"><img src="images/cont.png" width="28" height="28" border="0" /></a></td>
+    <td><a href="contactus.html">Contact Us</a></td>
+    <td><a href="https://twitter.com/kestoneims" target="_new"><img src="images/tweet.png" width="28" height="28" border="0" /></a></td>
+    <td><a href="https://twitter.com/kestoneims" target="_new">Twitter</a></td>
+    <td><a href="https://www.facebook.com/KestoneIMS" target="_new"><img src="images/face.png" width="28" height="28" border="0" /></a></td>
+    <td><a href="https://www.facebook.com/KestoneIMS" target="_new">Facebook</a></td>
+    <td><a href="http://www.linkedin.com/company/kestone-integrated-marketing-services-pvt.-ltd" target="_new"><img src="images/linked.png" width="28" height="28" border="0" /></a></td>
+    <td><a href="http://www.linkedin.com/company/kestone-integrated-marketing-services-pvt.-ltd" target="_new">Linkedin</a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+
+</div>
+</body>
+</html>
+
+</apex:page>

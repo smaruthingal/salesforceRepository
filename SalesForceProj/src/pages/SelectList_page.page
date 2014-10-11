@@ -1,0 +1,19 @@
+<apex:page controller="ListCon">
+
+    <apex:form >
+    
+        <apex:selectList value="{!selected_cities}" multiselect="true">
+        
+            <apex:selectOptions value="{!cities}">
+            
+            
+            </apex:selectOptions>
+        
+        </apex:selectList>
+    
+    
+    </apex:form>
+
+
+
+</apex:page>

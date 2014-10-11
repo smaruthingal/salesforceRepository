@@ -1,0 +1,15 @@
+<apex:page >
+    <apex:composition template="Lc_Composition">
+        
+        <apex:define name="body">(page) This is the body of mypage</apex:define>
+        <apex:define name="third">(page) This is third</apex:define>
+        <apex:define name="header">
+         <br/>
+           (page) This is the header of mypage <br/>
+            (page) This is the header of mypage <br/>
+             (page) This is the header of mypage <br/>
+              (page) This is the header of mypage <br/>
+               (page) This is the header of mypage <br/>
+        </apex:define>
+    </apex:composition>
+</apex:page>

@@ -1,0 +1,5 @@
+<apex:page >
+    <h1>
+         Welcome to Developer Console.
+    </h1>
+</apex:page>

@@ -1,0 +1,4 @@
+<apex:page id="theIncludedPage">
+        <apex:outputText value="(include) This is text from another page."/> <br/>
+        <apex:outputText value="(include) This is text from another page."/>
+</apex:page>

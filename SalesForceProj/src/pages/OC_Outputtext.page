@@ -1,0 +1,25 @@
+<apex:page >
+   <apex:outputText value="The unformatted time right now is: {!NOW()}" />
+   <br/>
+   <apex:outputText value="The formatted time right now is:{0,date,yyyy.MM.dd G 'at' HH:mm:ss z}">
+       <apex:param value="{!NOW()}" />
+   </apex:outputText>
+   <br/>
+   <apex:outputText value="The formatted time right now is:{0,date, yyyy.MM.dd}">
+       <apex:param value="{!NOW()}" />
+   </apex:outputText>
+   <br/>
+    <apex:outputText value="The formatted time right now is:{0,date,HH:mm:ss z}">
+       <apex:param value="{!NOW()}" />
+   </apex:outputText>
+     <br/>
+    <apex:outputText value="The formatted time right now is:{0,date,yyyy.MM.dd G}">
+       <apex:param value="{!NOW()}" />
+       <apex:param value="{!today()}" />
+   </apex:outputText>
+   <br/>
+    <apex:outputText value="The formatted time right now is:{1,date,HH:mm:ss z}">
+       <apex:param value="{!NOW()}" />
+       <apex:param value="{!today()}" />
+   </apex:outputText>
+</apex:page>

@@ -1,0 +1,208 @@
+<apex:page sidebar="false" showHeader="false">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<title>Dubai Relax Massage in your home. Mobile Outcall massage service</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <apex:stylesheet value="{!URLFOR($Resource.SiteCollection, '/Collection/css/style_02.css')}"/>
+    <apex:stylesheet value="{!URLFOR($Resource.SiteCollection, '/Collection/css/jquery.tabs.css')}"/>
+    <link href="http://www.dubai-massages.com/style_02.css" rel="stylesheet" type="text/css" />
+<link href="http://www.dubai-massages.com/css/jquery.tabs.css" rel="stylesheet" type="text/css" media="print, projection, screen" />
+<link rel="image_src" href="http://www.dubai-massages.com/images/swedish-massage-in-dubai-thmb.jpg" / >
+    <link rel="image_src" href="http://www.dubai-massages.com/images/swedish-massage-in-dubai-thmb.jpg" / >
+<meta name="description" content="Dubai Massage at your home - Outcall Massage service in Dubai." />
+<meta name="keywords" content="dubai,dubai massage,dubai outcall massage,dubai massage at home,dubai massage call,dubai massage service,dubai massage 050,dubai mobile massage,swedish massage in dubai,dubai relax massage,european massause" />
+<meta name="robots" content="index,follow" />
+     <link rel="shortcut icon" href="http://www.dubai-massages.com/favicon.ico" />
+<script src="http://www.dubai-massages.com/js/jquery.js" type="text/javascript"></script>
+<script src="http://www.dubai-massages.com/js/jquery.tabs.pack.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#tabs_block').tabs({ fxFade: true, fxSpeed: 'fast' });
+    });
+</script>
+
+</head>
+<body>
+    
+    <div class="main">
+  <!-- header -->
+  <div class="header">
+    <div class="top_left"></div>
+
+    <div class="clr"></div>
+    <div class="logo">
+      <div><a href="index.php" title="Dubai massage at your home.">
+       <apex:image url="{!URLFOR($Resource.Images, '/NewImages/logo.jpg')}" width="982" height="61" alt="Dubai massage at your home." />
+      </a></div>
+    </div>
+    <!-- menu -->
+    <div class="menu">
+      <ul>
+        <li><a href="#" class="active" title="Mobile Relax Massage in Dubai"><span><b>Outcall service - Relax Massage in Dubai</b></span></a></li>
+      </ul>
+    </div>
+    <div class="mail">
+           <img alt="Booking now!" src="http://www.dubai-massages.com/images/mobil_ico.gif" width="14" height="14" border="0" align="absbottom" />   050 821 8305  
+           |  <a href="mailto:vijeeshnanu@hotmail.com" > <img alt="Send Mail !" src="http://www.dubai-massages.com/images/mail.gif" width="14" height="14" border="0" align="absbottom" />   Send Email </a>
+           |  Share: <a href="#/"  onclick="FacebookSubmit();"> <img alt="Share on Facebook!" src="http://www.dubai-massages.com/images/facebook.png" width="16" height="16" border="0" align="absbottom"  />
+          <a href="#/" title="Tweet this page!" onclick='TwitterSubmit()'/> <img src="http://www.dubai-massages.com/images/twitter.png" width="16" height="16" border="0" align="absbottom" alt="Tweet this Page !"/></a>
+    </div>
+    
+    <!-- scroll header -->
+    <div class="scroller">
+      <div class="img_left">
+        <div class="link" id="tabs_block">
+          <ul class="tabs-nav">
+            <li class="tabs-selected"><a href="#section-1" title="Dubai Relax Massage - Relieves stress"><span>Relieves stress</span></a></li>
+            <li><a href="#section-2" title="Dubai Relax Massage - Improves circulation"><span>Improves circulation</span></a></li>
+            <li><a href="#section-3" title="Dubai Massage - Relaxes muscles"><span>Relaxes muscles</span></a></li>
+          </ul>   
+          <div id="section-1" style="float:left">
+              <apex:image url="{!URLFOR($Resource.Images, '/NewImages/IMG6.jpg')}" width="625" height="245" alt="11Dubai Relax Massage - Relieves stress" />
+          </div>
+          <div id="section-2" style="display:none; float:left">
+              <apex:image url="{!URLFOR($Resource.Images, '/NewImages/IMG1.jpg')}" width="625" height="245" alt="Dubai Relax Massage - Improves circulation"/>
+          </div>
+          <div id="section-3" style="display:none; float:left">
+               <apex:image url="{!URLFOR($Resource.Images, '/NewImages/IMG2.jpg')}" width="625" height="245" alt="Dubai Massage - Relaxes muscles"/>
+          </div>
+        </div>
+      </div>
+      <div class="text_right">
+        <h1>The Health Benefits of Massage</h1>
+        <p>Massage therapy helps you relax, re-align and rejuvenate. There are many positive aspects to receiving massage therapy on an ongoing basis, and with the busy lives we lead, we can all benefit from a little stress-management.</p>
+        
+      </div>
+    </div>
+    <div class="clr">
+    </div>
+    
+    <div id="kcs">
+        <div id="lcs"></div>
+        <div id="rcs"></div>
+        <div class="gr">
+          <div>
+            <div>
+              <div class="left"><img src="http://www.dubai-massages.com/images/r1.gif" width="50" height="50" align="left" alt="Just one call !" title="Just one call !" />Appointments at your home available 7 days a week 11:00 - 00:00.</div>
+              <div class="center"><img src="http://www.dubai-massages.com/images/r2.gif" width="50" height="50" align="left" alt="Massage at your home." title="Massage at your home." />Our outcall massage options is designed to help you feel relaxed and refreshed. </div>
+              <div class="right"><img src="http://www.dubai-massages.com/images/r3.gif" width="50" height="50" align="left" alt="Certified Masseuse" title="Certified Masseuse" />Massause will give you the perfect pressure.</div>
+            </div>
+          </div>
+          <div class="clr"></div>
+        </div>
+    </div>
+    
+    
+    <div class="white" style="position:relative">
+        <div id="lt"></div>
+        <div id="rt"></div>
+        <div id="lb"></div>
+        <div id="rb"></div>
+        
+        <div class="left">
+        <h3>Relax Massage in Dubai</h3>
+        <p class="b_bottom"><strong>Massage service from certified European masseuse in Dubai.</strong><br /><br />
+          <img src="http://www.dubai-massages.com/images/certi_small.jpg" width="200" height="145" alt="European Certified Masseuse in Dubai" title="European Certified Masseuse in Dubai" /></p>
+        <!--  <p class="b_bottom"><strong>Swedish massage service from certified European masseuse in Dubai.</strong><br /></p> !-->
+        <p><strong>Try it !</strong><br />
+          Swedish massage is the most commonly offered and best-known type of massage. Swedish massage is the perfect start.<br /><br /><br /> </p>
+               
+                  <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                   <!--   <fb:like-box href="http://www.facebook.com/dubaimassages" width="280" height="290" stream="false" connections="8"></fb:like-box>-->
+         <br /> <br />
+        <h3>Special Offer</h3>
+        <p id="price"><b><i>One hour full body Swedish massage in the comfort of your home by European masseuse.</i></b><br />
+          <br /><br /><br />
+          <strong>Try it !  Booking Now - 050 821 8305</strong></p>
+      </div>
+      <div class="right">
+        <h3>Outcall Massage Service</h3>
+        <p><strong><img src="http://www.dubai-massages.com/images/masseuse.jpg" width="160" height="179" align="left" alt="Full body massage at your home" title="Full Body Massage at your home" style="margin:5px 20px 0 0" />What is Outcall Massage Service?</strong><br />
+        Outcall service simply means the massage therapist is going to the client, instead of the client coming to the therapist. Outcall service may be provided in the client's home, an apartment or townhouse, a hotel, a resort area, or some other location.<br />
+        <!-- <b style="color:#900"><i>Our outcall massage service offers ONLY MASSAGE ! ...nothing else !</ br><img src="images/2010-11-24_221342.gif" width="146" height="19" hspace="20" border="0" /></i></b>
+        !-->
+        <br />
+Masseuse will generally supply their own massage table, oils, and towels and other requirements. So, You just have to booking an appointment, and prepare to Swedish massage !<br /> <b>Working hours: 11:00 - 00:00  every days !</b></p><br />
+        
+         <h3>Benefits of Massage Therapy</h3>
+        <p><strong>There are so many healthy benefits to receiving massage therapy on a regular basis:</strong></p>
+        <table><tr><td>&#8226; Relieves Stress</td><td>&#8226; Encourages Relaxation</td></tr>
+               <tr><td>&#8226; Improves Posture</td><td>&#8226; Improves Circulation</td></tr>
+               <tr><td>&#8226; Lowers Blood Pressure</td><td>&#8226; Helps Manage Pain</td></tr>
+               <tr><td>&#8226; Relaxes Muscles</td><td>&#8226; Improves Flexibility</td></tr>
+               <tr><td>&#8226; Relieves Tension-Related Headaches</td><td>&#8226; Strengthens The Immune System</td></tr>
+               <tr><td>&#8226; Enhances Post-Operative Rehabilitation</td><td>&#8226; Improves Rehabilitation After Injury</td></tr></table><br />
+        <p><img src="http://www.dubai-massages.com/images/pic1.jpg" width="120" height="178" align="left" alt="Full body massage at your home" title="Full Body Massage at your home" style="margin:5px 20px 0 0" />
+        <b><i>Mobile Masseuse will generally supply their own massage table, oils, and towels and will advise beforehand of any other requirements, such as a warm room.<br /> Clients will be requested to be appropriately attired, in accordance with the style of therapy that is being supplied.<br /></i></b><br />
+In all cases, stress relief and relaxation will be a major focus. Stress management is a key component for anyone striving to achieve a healthy lifestyle. Massage therapy has been proven to be one of the most effective methods for achieving stress relief. Research studies show massage therapy actually boosts the body's immune system, which can become compromised from extended periods of stress.</p>
+        <p>In today s fast-paced world, our busy lifestyles can take a toll on our physical and mental well being. Allowing our bodies to relax and unwind is now more important than ever. A massage provides the ultimate experience in relaxation. <br /><br />Through massage therapy, we become more aware of our daily stress levels. This allows us to recognize what true relaxation feels like so we can more easily recreate it for ourselves, before stress becomes chronic and damaging. Having this relief from stress increases our energy levels and vitality, as well as enhances our ability to cope with and enjoy our daily lives.</p>
+        <p>Enrolling in a reputable massage therapy program leads to significantly increased energy levels, the reduction of nagging pains, and the improvement of our overall physical and mental performance.</p><br />
+         <div class="button" style="float:right">
+          <div>
+            <div>
+              <div align="center">Booking now !  - 050 821 8305</div>
+            </div>
+          </div>
+        </div><br />
+        <h3>Swedish Massage</h3>
+        <p>
+            <img src="http://www.dubai-massages.com/images/pic2.jpg" align="left" style="margin:5px 20px 0 0" alt="Relaxing Massage" title="Relaxing Massage" />
+           More people are turning to massage treatment to provide relaxation, relieve tension associated with the daily stresses of their busy lives, or simply to help maintain good health and achieve a balanced lifestyle. Oh, and let's not forget how great it feels to be treated by a professional massause.</p>
+          
+                   <p> <i>Swedish massage is the style that comes to mind when most people think about massage. It was developed in Stockholm a couple of centuries ago and is the most common and best-known type form of bodywork performed today </i><br /><br />
+                       The goal is relaxing the entire body and this is accomplished by rubbing the muscles with long gliding strokes in the direction of blood returning to the heart. Additional techniques include circular pressure applied by the hands and palms, firm kneading, percussion-like tapping, bending and stretching.</p>
+                    <p>Lotion is often used to reduce friction and stimulate the skin. Swedish massage is exceptional for increasing the level of oxygen in the blood, decreasing muscle toxins, improving circulation and flexibility while easing tension. </p>  
+                            <br />
+        <div class="button" style="float:right">
+          <div>
+            <div>
+              <div align="center"><a href="mailto:vijeeshnanu@hotmail.com">Inquiries - Send Mail !</a></div>
+            </div>
+          </div>
+        </div><br /><br />
+      </div>
+      <div class="clr"></div>
+    </div>
+    
+    <div class="footer">
+      <div class="l">© Copyright 2010.All Rights Reserved<br /></div>
+      <div class="l">
+        <div align="right">Tel:+971 50 821 8305    <a href="#">Home</a> <a href="mailto:vijeeshnanu@hotmail.com">E-mail</a> <a href="http://www.facebook.com/dubaimassages">Facebook</a> </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+</body>
+
+<script type="text/javascript">
+ function FacebookSubmit () {
+  window.open("http://www.facebook.com/sharer.php?u=http://dubai-massages.com&t=Dubai Massage",
+              "_blank",
+              "resizable=0,scrollbars=0,width=690,height=415");
+ }
+
+function TwitterSubmit () {
+  window.open("http://twitter.com/home?status=Dubai Massage - http://dubai-massages.com",
+              "_blank","resizable=0,scrollbars=0,width=780,height=415");
+ }
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9036998-34']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</html>
+</apex:page>

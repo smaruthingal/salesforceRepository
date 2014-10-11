@@ -1,0 +1,6 @@
+<apex:page >
+  <apex:listViews type="Account"/>
+   <apex:listViews type="Contact"/>
+   <apex:listViews type="Case"/>
+   <apex:listViews type="Opportunity"/>
+</apex:page>

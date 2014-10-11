@@ -1,0 +1,32 @@
+<apex:page controller="nestedqueryexample">
+   
+   <apex:pageBlock title="Account">
+       
+      <apex:pageBlockTable value="{!accounts}" var="c">
+         <apex:column value="{!c.Name}"/>
+         <apex:column value="{!c.BillingCountry }"/>
+         <apex:column value="{!c.Phone}"/>
+      </apex:pageBlockTable>
+      
+      <apex:dataList value="{!accounts}" var="a" >
+          <table align="center">
+              <tr>
+                  <td>{!a.name}
+                  </td>
+                   <td>{!a.BillingCountry }
+                  </td>
+                   <td> {!a.Phone}
+                  </td>
+              </tr>
+          </table>
+      </apex:dataList>
+      
+      <apex:dataTable value="{!accounts}" var="aa">
+          <apex:column value="{!aa.Name}"/>
+          <apex:column value="{!aa.BillingCountry }"/>
+          <apex:column value="{!aa.Phone}"/>
+      </apex:dataTable>
+      
+      
+   </apex:pageBlock>
+</apex:page>

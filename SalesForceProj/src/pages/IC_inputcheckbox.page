@@ -1,0 +1,26 @@
+<apex:page controller="checkboxcontroller">
+
+    <apex:form >
+        <apex:pageBlock >
+                 <apex:inputCheckbox value="{!test2}">
+                        <apex:actionsupport event="onchange" rerender="page1,sample,pageblock,sample11"/>  
+                </apex:inputCheckbox>
+                
+            <br/>  
+            <apex:pageBlock id="pageblock">
+               {!now()}
+            </apex:pageBlock>  <br/>
+            <apex:outputPanel id="sample">
+                {!now()}
+            </apex:outputPanel><br/>
+            <apex:outputPanel id="testing">
+                {!now()}
+            </apex:outputPanel>
+       </apex:pageBlock>
+    </apex:form>
+    <apex:form id="sample11">
+       <apex:inputCheckbox onClick="{!someone}" />
+        {!now()}
+     </apex:form>
+    
+</apex:page>

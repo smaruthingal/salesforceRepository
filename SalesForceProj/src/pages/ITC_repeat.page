@@ -1,0 +1,22 @@
+<apex:page standardController="Account">
+
+    <table border="0" >
+        <tr>
+            <th>{!$Label.label1}</th>
+            <th>Origin</th>
+            <th>Creator Email</th>
+            <th>Status</th>
+        </tr>
+
+        <apex:repeat var="c" value="{!Account.Cases}">
+            <tr>
+                <td>{!c.CaseNumber}</td>
+                <td>{!c.Origin}</td>
+                <td>{!c.Contact.email}</td>
+                <td>{!c.Status}</td>
+            </tr>
+        </apex:repeat> 
+
+    </table>
+
+</apex:page>

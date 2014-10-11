@@ -1,0 +1,22 @@
+<apex:page controller="AtestClass">
+<script>
+ sample()
+ {
+     alert('ok'); 
+ }
+</script>
+    <apex:form >
+        <a href="javascript:submitAfterTimeOver();">Click Me</a>
+        <apex:commandButton value="click" onclick="javascript:sample();"/>
+        <apex:actionFunction name="submitAfterTimeOver" action="{!test}" rerender="myBlock"/>
+        
+        <apex:pageBlock id="myBlock">
+            {!name}
+        </apex:pageBlock>
+        
+        <script>
+            submitAfterTimeOver();
+        </script>
+        
+    </apex:form>
+</apex:page>

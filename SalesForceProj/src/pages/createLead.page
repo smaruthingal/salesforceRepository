@@ -1,0 +1,18 @@
+<apex:page controller="LeadController">
+ <apex:form >
+     <apex:pageBlock >
+         <apex:pageBlockButtons >
+             <apex:commandButton value="Save" action="{!save}"/>
+         </apex:pageBlockButtons>
+         <apex:pageBlockSection columns="1">
+             <apex:inputField value="{!l.Firstname}"/>
+             <apex:inputField value="{!l.Lastname}"/>
+             <apex:inputField value="{!l.Company}"/>
+             <apex:inputField value="{!l.status}"/>
+             <apex:inputField value="{!l.Email}"/>
+             <apex:inputField value="{!l.phone}"/>
+             
+         </apex:pageBlockSection>
+     </apex:pageBlock>
+ </apex:form>
+</apex:page>

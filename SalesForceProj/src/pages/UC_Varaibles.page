@@ -1,0 +1,9 @@
+<apex:page controller="variableCon">
+
+    <apex:variable var="c" value="{!contact}" />
+    
+    <p>Greetings, {!c.LastName}.</p>
+    <p>Greetings, {!c.Firstname}.</p>
+    <p>Greetings, {!c.Phone}.</p>
+   
+</apex:page>
